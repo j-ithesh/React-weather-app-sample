@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/j-ithesh/React-weather-app-sample.git/static/css/main.c4962d53.css",
+    "main.js": "/j-ithesh/React-weather-app-sample.git/static/js/main.8550add2.js",
+    "static/js/787.d62d1c65.chunk.js": "/j-ithesh/React-weather-app-sample.git/static/js/787.d62d1c65.chunk.js",
+    "static/media/logo.svg": "/j-ithesh/React-weather-app-sample.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/j-ithesh/React-weather-app-sample.git/index.html",
+    "main.c4962d53.css.map": "/j-ithesh/React-weather-app-sample.git/static/css/main.c4962d53.css.map",
+    "main.8550add2.js.map": "/j-ithesh/React-weather-app-sample.git/static/js/main.8550add2.js.map",
+    "787.d62d1c65.chunk.js.map": "/j-ithesh/React-weather-app-sample.git/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4962d53.css",
+    "static/js/main.8550add2.js"
+  ]
+}
